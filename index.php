@@ -14,7 +14,6 @@
     <meta name="subject" content="A warm welcome to enter my Website, Do you want Professional video and photo for your brand.... you in the right place(:">
     <meta name="copyright"content="Mahmoud Khaled">
     <meta name="language" content="en">
-    <meta name="robots" content="index,follow" />
     <meta name="revised" content="Sat, March 4th, 2023, 11:00 AM" />
     <meta name="Classification" content="Business">
     <meta name="author" content="Mahmoud Khaled, contact@mahmoudkhaled.org">
@@ -31,7 +30,7 @@
     <meta http-equiv="Cache-Control" content="no-cache">
 
     <meta name="og:title" content="Mahmoud Khaled"/>
-    <meta name="og:type" content="video"/>
+    <meta name="og:type" content="website"/>
     <meta name="og:url" content="https://mahmoudkhaled.org"/>
     <meta name="og:image" content="./assets/img/logo(dark).png"/>
     <meta name="og:site_name" content="Mahmoud Khaled"/>
@@ -46,7 +45,7 @@
     <meta name="og:latitude" content="37.416343"/>
     <meta name="og:longitude" content="-122.153013"/>
     <meta name="og:street-address" content="Cairo - Alexandria Desert Rd, Qetaa at Tarik as Sahrawi, Amreya 1, Alexandria Governorate"/>
-    <meta name="og:locality" content="Egypt"/>
+    <meta name="og:locale" content="en_EN"/>
     <meta name="og:region" content="EG"/>
     <meta name="og:country-name" content="EG"/>
 
