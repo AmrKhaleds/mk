@@ -32,7 +32,7 @@
     <meta name="og:title" content="Mahmoud Khaled"/>
     <meta name="og:type" content="website"/>
     <meta name="og:url" content="https://mahmoudkhaled.org"/>
-    <meta name="og:image" content="./assets/img/logo(dark).png"/>
+    <meta name="og:image" content="https://mahmoudkhaled.org/assets/img/meta.png"/>
     <meta name="og:site_name" content="Mahmoud Khaled"/>
     <meta name="og:description" content="A warm welcome to enter my Website, Do you want Professional video and photo for your brand.... you in the right place(: "/>
 
