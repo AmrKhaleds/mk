@@ -13,7 +13,10 @@
                     <div class="info-box">
                         <i class="bx bx-map"></i>
                         <h3>My Address</h3>
-                        <p>A108 Adam Street, New York, NY 535022</p>
+                        <p>
+                            <a class="address" href="https://www.google.com/maps/dir/31.0334505,30.4789308/31.116443,29.8855591/@31.0963426,29.9042808,10z/data=!3m1!4b1!4m4!4m3!1m1!4e1!1m0" class="facebook">Cairo - Alexandria Desert Rd, Qetaa at Tarik as Sahrawi, Amreya 1, Alexandria Governorate</a>
+                            
+                        </p>
                     </div>
                 </div>
 
@@ -22,11 +25,10 @@
                         <i class="bx bx-share-alt"></i>
                         <h3>Social Profiles</h3>
                         <div class="social-links">
-                            <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-                            <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-                            <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-                            <a href="#" class="google-plus"><i class="bi bi-skype"></i></a>
-                            <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                            <a href="https://www.facebook.com/Mahmoud.videography" class="facebook"><i class="bi bi-facebook"></i></a>
+                            <a href="https://www.instagram.com/mahmoud.videography/" class="instagram"><i class="bi bi-instagram"></i></a>
+                            <a href="https://www.youtube.com/@mahmoudkhaled2659" class="youtube"><i class="bi bi-youtube"></i></a>
+                            <a href="https://www.tiktok.com/@mahmoudkhaled1274" class="tiktok"><i class="bi bi-tiktok"></i></a>
                         </div>
                     </div>
                 </div>
@@ -35,14 +37,22 @@
                     <div class="info-box">
                         <i class="bx bx-envelope"></i>
                         <h3>Email Me</h3>
-                        <p>contact@example.com</p>
+                        
+                        <p>
+                            <a class="address" href="mailto:contact@mahmoudkhaled.org" class="facebook">contact@mahmoudkhaled.org</a>
+
+                        </p>
                     </div>
                 </div>
                 <div class="col-md-6 mt-4 d-flex align-items-stretch">
                     <div class="info-box">
                         <i class="bx bx-phone-call"></i>
                         <h3>Call Me</h3>
-                        <p>+1 5589 55488 55</p>
+                        
+                        <p>
+                        <a class="address" href="tel:+201110012666" class="facebook">(+20) 111 001 2666</a>
+
+                        </p>
                     </div>
                 </div>
             </div>

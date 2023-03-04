@@ -33,7 +33,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>  
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-photo">
                     <div class="portfolio-wrap">

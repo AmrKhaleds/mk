@@ -393,7 +393,7 @@ section .container {
     width: 120px;
     height: 1px;
     display: inline-block;
-    background: #4ceb95;
+    background: #F30018;
     margin: 4px 10px;
 }
 
@@ -1054,6 +1054,15 @@ section .container {
     line-height: 24px;
     font-size: 14px;
     margin: 0 0 0 68px;
+}
+
+.contact .info-box p a {
+    color: #fff;
+    transition: 0.1s ease-in-out;
+}
+
+.contact .info-box p a:hover {
+    color: #a3a3a3;
 }
 
 .contact .info-box .social-links {
